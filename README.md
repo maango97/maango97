@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="[https://capsule-render.vercel.app/api?type=waving&color=0:b7fff8,100:0ec9fb&height=120&text=Hi,%20there!%20I'm%20Jimin.&animation=&fontColor=000000&fontSize=40]" />
+    <img src="[[https://capsule-render.vercel.app/api?type=waving&color=0:b7fff8,100:0ec9fb&height=120&text=Hi,%20there!%20I'm%20Jimin.&animation=&fontColor=000000&fontSize=40]](https://capsule-render.vercel.app/api?type=venom&height=300&color=timeGradient&text=Jimin%20Sim&textBg=false&fontAlign=50&animation=fadeIn&fontColor=black)" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋 안녕하세요, Data Analyst를 꿈꾸는 심지민입니다  </h2>  
