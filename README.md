@@ -36,7 +36,6 @@
     </div>   
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Language </h2>
-    
     <!-- English Section -->
     <div style="margin-bottom: 10px;">
         <h3 style="font-size: 18px; color: #282d33;">English</h3>
@@ -45,7 +44,6 @@
             <li>TOEIC 980</li>
         </ul>
     </div>
-
     <!-- Japanese Section -->
     <div>
         <h3 style="font-size: 18px; color: #282d33;">Japanese</h3>
@@ -55,7 +53,6 @@
         </ul>
     </div>
 </div>
-
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;"> <a href=https://maango97.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://maango97.tistory.com/"> </a>
