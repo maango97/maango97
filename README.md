@@ -3,7 +3,7 @@
 </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋 안녕하세요, Data Analyst를 꿈꾸는 심지민입니다  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 2024년 5월부터 데이터 분석 프로젝트와 학습을 이어오며 문제 해결의 즐거움을 경험하고 있습니다. 일본에서 인사팀으로 근무하며 데이터 기반 의사 결정의 중요성을 깨닫고, 귀국 후 이를 심화하기 위해 본격적으로 공부를 시작했습니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 2024년 5월부터 데이터 분석 프로젝트와 학습을 이어오며 문제 해결의 즐거움을 경험하고 있습니다. 일본에서 인사팀으로 근무하며 데이터 기반 의사 결정의 중요성을 깨닫고, 귀국을 결정 후 본격적으로 공부를 시작했습니다. </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -27,16 +27,36 @@
     </div>
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> :office:Career </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 경력
-    </div>   
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏢 Career </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
+        <h3 style="font-size: 16px; margin-bottom: 5px;">일본 Honda R&D Co.,Ltd 인사총무부 글로벌 채용팀</h3>
+        <ul style="margin-left: 20px; font-size: 15px; line-height: 1.8;">
+            <li>인도 지역의 AI 인재 채용 담당</li>
+            <li>인도 대학과 연계한 채용설명회 운영</li>
+            <li>외국인 인재 인턴십 프로그램 운영</li>
+            <li>외국인 직원을 위한 온보딩 절차 담당</li>
+            <li>경력직 채용 관련 아웃소싱 업체와 협력</li>
+        </ul>
+        <p style="margin-left: 20px; font-size: 14px; color: #6c757d;">2023.09 – 2023.12</p>
+        <h3 style="font-size: 16px; margin-bottom: 5px;">일본 Elematec Corporation 인사부</h3>
+        <ul style="margin-left: 20px; font-size: 15px; line-height: 1.8;">
+            <li>신입 공개 채용 담당</li>
+            <li>신입 사원 연수 프로그램 운영</li>
+            <li>사내 영어 교육 담당</li>
+            <li>탤런트 매니지먼트 시스템(DX) 도입</li>
+            <li>채용 관련 대학과 연계</li>
+            <li>해외 OJT 연수 프로그램 담당</li>
+        </ul>
+        <p style="margin-left: 20px; font-size: 14px; color: #6c757d;">2021.04 – 2023.05</p>
+    </div>
+</div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📝 Certificate </h2>  
     <ul style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33; list-style-type: circle; margin-left: 20px;">
-        <li>데이터분석 준전문가 (ADsP)</li>
-        <li>SQL 개발자 (SQLD)</li>
-        <li>정보처리기사 필기</li>
-        <li>MOS Excel 2010 Expert</li>
+        <li>데이터분석 준전문가 (ADsP) (2024.09)</li>
+        <li>SQL 개발자 (SQLD) (2024.09)</li>
+        <li>정보처리기사 필기 (2024.08)</li>
+        <li>MOS Excel 2010 Expert (2016.10)</li>
     </ul>
 </div>
     <div style="text-align: left;">
@@ -45,16 +65,16 @@
     <div style="margin-bottom: 10px;">
         <h3 style="font-size: 18px; color: #282d33;">English</h3>
         <ul style="font-weight: 700; font-size: 15px; color: #282d33; list-style-type: square; margin-left: 20px;">
-            <li>OPIC AL</li>
-            <li>TOEIC 980</li>
+            <li>OPIC AL (2024.12)</li>
+            <li>TOEIC 980 (2024.03)</li>
         </ul>
     </div>
     <!-- Japanese Section -->
     <div>
         <h3 style="font-size: 18px; color: #282d33;">Japanese</h3>
         <ul style="font-weight: 700; font-size: 15px; color: #282d33; list-style-type: square; margin-left: 20px;">
-            <li>JLPT N1</li>
-            <li>JPT 955</li>
+            <li>JLPT N1 (2024.08)</li>
+            <li>JPT 955 (2024.03)</li>
         </ul>
     </div>
 </div>
