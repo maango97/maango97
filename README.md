@@ -22,20 +22,20 @@
           </div>
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Projects </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> :deciduous_tree:Projects </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 프로젝트 설명 
     </div>
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Career </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> :office:경력
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> :office:Career </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 경력
     </div>   
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Certificate </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> :pencil2:Certificate </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 경력
     </div>   
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Language </h2>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> :star2:Language </h2>
     <!-- English Section -->
     <div style="margin-bottom: 10px;">
         <h3 style="font-size: 18px; color: #282d33;">English</h3>
