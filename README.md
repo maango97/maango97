@@ -31,13 +31,14 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 경력
     </div>   
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> :pencil2:Certificate </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
-- 데이터분석 준전문가 (ADsP)
-- SQL 개발자 (SQLD)
-- 정보처리기사 필기
-- MOS Excel 2010 Expert
-    </div>   
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📝 Certificate </h2>  
+    <ul style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33; list-style-type: circle; margin-left: 20px;">
+        <li>데이터분석 준전문가 (ADsP)</li>
+        <li>SQL 개발자 (SQLD)</li>
+        <li>정보처리기사 필기</li>
+        <li>MOS Excel 2010 Expert</li>
+    </ul>
+</div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> :star2:Language </h2>
     <!-- English Section -->
