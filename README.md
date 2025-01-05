@@ -29,7 +29,7 @@
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏢 Career </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
-        <h3 style="font-size: 16px; margin-bottom: 5px;">일본 Honda R&D Co.,Ltd 인사총무부 글로벌 채용팀</h3>
+        <h3 style="font-size: 16px; margin-bottom: 5px;">일본 Honda R&D Co.,Ltd 인사총무부 글로벌 채용팀 (2023.09 – 2023.12)</h3>
         <ul style="margin-left: 20px; font-size: 15px; line-height: 1.8;">
             <li>인도 지역의 AI 인재 채용 담당</li>
             <li>인도 대학과 연계한 채용설명회 운영</li>
@@ -37,8 +37,7 @@
             <li>외국인 직원을 위한 온보딩 절차 담당</li>
             <li>경력직 채용 관련 아웃소싱 업체와 협력</li>
         </ul>
-        <p style="margin-left: 20px; font-size: 14px; color: #6c757d;">2023.09 – 2023.12</p>
-        <h3 style="font-size: 16px; margin-bottom: 5px;">일본 Elematec Corporation 인사부</h3>
+        <h3 style="font-size: 16px; margin-bottom: 5px;">일본 Elematec Corporation 인사부 (2021.04 – 2023.05)</h3>
         <ul style="margin-left: 20px; font-size: 15px; line-height: 1.8;">
             <li>신입 공개 채용 담당</li>
             <li>신입 사원 연수 프로그램 운영</li>
@@ -47,7 +46,6 @@
             <li>채용 관련 대학과 연계</li>
             <li>해외 OJT 연수 프로그램 담당</li>
         </ul>
-        <p style="margin-left: 20px; font-size: 14px; color: #6c757d;">2021.04 – 2023.05</p>
     </div>
 </div>
     <div style="text-align: left;"> 
