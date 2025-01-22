@@ -6,7 +6,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 2024년 5월부터 데이터 분석 프로젝트와 학습을 이어오며 문제 해결의 즐거움을 경험하고 있습니다. 일본에서 인사팀으로 근무하며 데이터 기반 의사 결정의 중요성을 깨닫고, 귀국을 결정 후 본격적으로 공부를 시작했습니다. </div> 
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
           <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
           <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
@@ -62,7 +62,7 @@
     <ul style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33; list-style-type: circle; margin-left: 20px;">
         <li>프로젝트 중심 빅데이터 융합 머신러닝 전문가 양성과정 (2024.05-2024.11)</li>
         <li>국민대학교 국제학부 일본학과 (2016.03-2021.02)</li>
-        <li>Tokai University 교환학생 (2018.09-2019.07) (</li>
+        <li>Tokai University 교환학생 (2018.09-2019.07)</li>
     </ul>
 </div>
     <div style="text-align: left;"> 
