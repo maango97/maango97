@@ -20,17 +20,25 @@
           <br/><img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white">
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
           <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
+          <img src="https://img.shields.io/badge/Tableau-00FFFF?style=for-the-badge&logoColor=white">
+          <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white">
           </div>
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> :deciduous_tree:Projects </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 프로젝트 설명 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
+        <li>DACON (2024.12-2025.01)</li>
+        <li><a href="[https://github.com/maango97/marketing-segmentation]">이커머스 고객 세분화 분석 - 군집 분석과 RFMV를 이용한 초세분화 마케팅 전략 (2024.12-2025.01)</a></li>
+        <li>MTS 어플 리뷰 분석 (2024.01-2025.02)</li>
+        <li><a href="[https://github.com/maango97/sejong-bigdata-contest]">제 5회 세종특별자치시 빅데이터 분석 아이디어 공모전 (2024.08-2024.09)</a></li>
+        <li><a href="[https://github.com/maango97/hr-analytics]">퇴사 여부 분류 모델 (2024.10)</a></li>
+        <li>COVID-19 팬데믹 전후 미국 메디케어 의료 서비스 변화 양상 분석 (2024.05-2024.06)</li>
     </div>
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏢 Career </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
-        <h3 style="font-size: 16px; margin-bottom: 5px;">일본 Honda R&D Co.,Ltd 인사총무부 글로벌 채용팀 (2023.09 – 2023.12)</h3>
+        <h3 style="font-size: 16px; margin-bottom: 5px;">일본 Honda R&D Co.,Ltd 인사총무부 글로벌 채용팀 (2023.09 - 2023.12)</h3>
         <ul style="margin-left: 20px; font-size: 15px; line-height: 1.8;">
             <li>인도 지역의 AI 인재 채용 담당</li>
             <li>인도 대학과 연계한 채용설명회 운영</li>
@@ -38,7 +46,7 @@
             <li>외국인 직원을 위한 온보딩 절차 담당</li>
             <li>경력직 채용 관련 아웃소싱 업체와 협력</li>
         </ul>
-        <h3 style="font-size: 16px; margin-bottom: 5px;">일본 Elematec Corporation 인사부 (2021.04 – 2023.05)</h3>
+        <h3 style="font-size: 16px; margin-bottom: 5px;">일본 Elematec Corporation 인사부 (2021.04 - 2023.05)</h3>
         <ul style="margin-left: 20px; font-size: 15px; line-height: 1.8;">
             <li>신입 공개 채용 담당</li>
             <li>신입 사원 연수 프로그램 운영</li>
@@ -50,7 +58,15 @@
     </div>
 </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📝 Certificate </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎓 Education </h2>  
+    <ul style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33; list-style-type: circle; margin-left: 20px;">
+        <li>프로젝트 중심 빅데이터 융합 머신러닝 전문가 양성과정 (2024.05-2024.11)</li>
+        <li>국민대학교 국제학부 일본학과 (2016.03-2021.02)</li>
+        <li>Tokai University 교환학생 (2018.09-2019.07) (</li>
+    </ul>
+</div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📝 Certificates </h2>  
     <ul style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33; list-style-type: circle; margin-left: 20px;">
         <li>데이터분석 준전문가 (ADsP) (2024.09)</li>
         <li>SQL 개발자 (SQLD) (2024.09)</li>
