@@ -96,9 +96,8 @@
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;"> <a href=https://maango97.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://maango97.tistory.com/"> </a>
-         <a href=ㅇㅇ> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=ㅇㅇ"> </a>
+         <a href=ㅇㅇ> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://delicious-green-348.notion.site/1853c70e3c1d8083aeb9f645fed0c466?pvs=4"> </a>
          <a href=mailto:jmsword25@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jmsword25@gmail.com"> </a>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
-    </div>
     
