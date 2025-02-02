@@ -27,9 +27,9 @@
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> :deciduous_tree:Projects </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
-        <li>DACON (2024.12-2025.01)</li>
+        <li>DACON 선물 배송 경로 최적화 경진대회: 산타와 루돌프의 워라벨 사수작전 (2024.12-2025.01) 🤜Private 9위🤛 </li>
         <li><a href="https://github.com/maango97/marketing-segmentation">이커머스 고객 세분화 분석 - 군집 분석과 RFMV를 이용한 초세분화 마케팅 전략 (2024.12-2025.01)</a></li>
-        <li>MTS 어플 리뷰 분석 (2024.01-2025.02)</li>
+        <li>MTS 어플 리뷰 분석 (2024.01-2025.02, 진행 중)</li>
         <li><a href="https://github.com/maango97/sejong-bigdata-contest">제 5회 세종특별자치시 빅데이터 분석 아이디어 공모전 (2024.08-2024.09)</a></li>
         <li><a href="https://github.com/maango97/hr-analytics">퇴사 여부 분류 모델 (2024.10)</a></li>
         <li>COVID-19 팬데믹 전후 미국 메디케어 의료 서비스 변화 양상 분석 (2024.05-2024.06)</li>
