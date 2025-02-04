@@ -31,7 +31,7 @@
         <li><a href="https://github.com/maango97/marketing-segmentation">이커머스 고객 세분화 분석 - 군집 분석과 RFMV를 이용한 초세분화 마케팅 전략 (2024.12-2025.01)</a></li>
         <li><a href="https://github.com/maango97/sejong-bigdata-contest">쿨페이브먼트 최적 입지 선정(제 5회 세종특별자치시 빅데이터 분석 아이디어 공모전) (2024.08-2024.09)</a></li>
         <li><a href="https://github.com/maango97/hr-analytics">신경망을 이용한 퇴사 여부 분류 모델 (2024.10)</a></li>
-        <li>(진행 중)DACON 부동산 허위매물 분류 해커톤: 가짜를 색출하라! (2024.01-2025.02, 현 상위 4%, 닉네임:maango)</li>
+        <li>(진행 중)DACON 부동산 허위매물 분류 해커톤: 가짜를 색출하라! (2024.01-2025.02, 現 상위 4%, 닉네임:maango)</li>
         <li>(진행 중)MTS 어플 리뷰 분석 (2024.01-2025.02, 진행 중)</li>
     </div>
     </div>
