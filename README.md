@@ -13,7 +13,7 @@
         <li><a href="https://github.com/maango97/sejong-bigdata-contest">쿨페이브먼트 최적 입지 선정(제 5회 세종특별자치시 빅데이터 분석 아이디어 공모전) (2024.08-2024.09)</a></li>
         <li><a href="https://github.com/maango97/hr-analytics">신경망을 이용한 퇴사 여부 분류 모델 (2024.10)</a></li>
         <li>(진행 중)DACON 부동산 허위매물 분류 해커톤: 가짜를 색출하라! (2024.01-2025.02, 現 상위 4%, 닉네임:maango)</li>
-        <li>(진행 중)DACON 악성 URL 분류 AI 경진대회 (2025.02-2025.03, 닉네임:maango)</li>
+        <li>(진행 중)DACON 악성 URL 분류 AI 경진대회 (2025.02-2025.03, 現 6위, 닉네임:maango)</li>
     </div>
     </div>
     <div style="text-align: left;"> 
