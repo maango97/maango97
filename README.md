@@ -8,7 +8,7 @@
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> :deciduous_tree:Projects </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
-        <li><a href="https://github.com/maango97/dacon-cvrp-optimization">🤜Private 9위🤛DACON 선물 배송 경로 최적화 경진대회: 산타와 루돌프의 워라벨 사수작전 (2024.12-2025.01) </a></li>
+        <li><a href="https://github.com/maango97/dacon-cvrp-optimization">🤜Private 7위🤛DACON 선물 배송 경로 최적화 경진대회: 산타와 루돌프의 워라벨 사수작전 (2024.12-2025.01) </a></li>
         <li><a href="https://github.com/maango97/marketing-segmentation">이커머스 고객 세분화 분석 - 군집 분석과 RFMV를 이용한 초세분화 마케팅 전략 (2024.12-2025.01)</a></li>
         <li><a href="https://github.com/maango97/sejong-bigdata-contest">쿨페이브먼트 최적 입지 선정(제 5회 세종특별자치시 빅데이터 분석 아이디어 공모전) (2024.08-2024.09)</a></li>
         <li><a href="https://github.com/maango97/hr-analytics">신경망을 이용한 퇴사 여부 분류 모델 (2024.10)</a></li>
