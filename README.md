@@ -27,7 +27,7 @@
             <li>외국인 직원을 위한 온보딩 절차 담당</li>
             <li>경력직 채용 관련 아웃소싱 업체와 협력</li>
         </ul>
-        <h3 style="font-size: 16px; margin-bottom: 5px;">일본 Elematec Corporation 인사부 (2021.04 - 2023.05)</h3>
+        <h3 style="font-size: 16px; margin-bottom: 5px;">일본 Elematec Corporation 인사부 (2021.04 - 2023.04)</h3>
         <ul style="margin-left: 20px; font-size: 15px; line-height: 1.8;">
             <li>신입 공개 채용 담당</li>
             <li>신입 사원 연수 프로그램 운영</li>
